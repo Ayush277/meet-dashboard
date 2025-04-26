@@ -1,13 +1,17 @@
-# React + Vite
+MEET_SENSE 🚀
+MeetSense: Your AI-powered Meeting Assistant for Sales and Productivity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MeetSense is a smart meeting platform where a host bot joins your meetings to make sales, finance, and planning conversations effortless. It generates real-time graphs based on your discussion topics and automates task assignments through integrations like Jira and Slack. MeetSense also automatically maps discussed strategies into an intuitive, connected canvas, helping teams move faster and stay organized.
 
-Currently, two official plugins are available:
+🌟 Features
+Live Graph Generation:
+Converts sales, finance, or planning discussions into real-time graphs for quick insights.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AI Task Assigner:
+Detects when tasks are discussed (task name + deadline) and assigns them to team members via Jira and Slack integration, with instant notifications.
 
-## Expanding the ESLint configuration
+Strategy Canvas Creator:
+Automatically generates a dynamic visual canvas of strategies and plans discussed during the meeting, with tasks linked month-wise or phase-wise.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-// This is a sample change
+Bot Host Integration:
+The MeetSense bot automatically joins your meetings, making your sessions more actionable and productive.
